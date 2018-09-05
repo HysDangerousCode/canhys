@@ -12,9 +12,11 @@ body {
 /* 鸟的主体 */
 
 .bird {
-    width: 52em;
-    height: 50em;
+    width: 500px;
+    height: 600px;
     font-size: 7px;
+    display: block;
+    margin: 0px auto;
 }
 
 .bird {
@@ -25,7 +27,7 @@ body {
 /* 鸟的头部 */
 
 .bird {
-    position: absolute;
+    position: , absolute;
 }
 
 .head {
